@@ -2,4 +2,5 @@
 print "First program ";
 print "Kishan Baishay ";
 print "\n Developer came";
+echo (" I am good");
 ?>
